@@ -1,6 +1,8 @@
+Backend is created using Express.js.
+
 The database is created using mysql with the provided data set.
 
-Details:
+Database details:
     host: 'localhost',
     user: 'root',
     password: '1234',
